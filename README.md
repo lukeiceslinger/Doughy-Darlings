@@ -25,7 +25,7 @@ DoughyDarlings isn't just a pizza app; it's a pizza party at your fingertips! ðŸ
 
    git clone https://github.com/lukeiceslinger/doughy-darlings.git
    
-## Pizza Exploration:
+## Pizza Exploration
 
 Dive into frontend for pizza pixels.
 Venture into backend for the magic behind the scenes.
